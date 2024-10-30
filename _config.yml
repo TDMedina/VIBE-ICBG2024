@@ -102,8 +102,8 @@ heroButtons:
     permalink: "news"
   - text: "Registration now open"
     permalink: "registration"
-  - text: "Abstract submissions open until 25 Oct"
-    link: "https://app.oxfordabstracts.com/stages/75796/submitter"
+  # - text: "Abstract submissions open until 25 Oct"
+  #   link: "https://app.oxfordabstracts.com/stages/75796/submitter"
 
 # About Block
 aboutTitle: "About VIBE/ICBG 2024"
