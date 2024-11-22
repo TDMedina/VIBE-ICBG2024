@@ -1,11 +1,12 @@
 - id: 0
   name: "Prof. Karen"
   surname: "Miga"
-  title: "Speaker"
+  title: "Keynote"
   ribbon:
     - abbr: "Keynote"
       title: "Invited Speaker"
   company: "University of California, Santa Cruz"
+  talkType: "keynote"
   talkTitle: "The Human Pangenome Project: Creating a Reference that Better Represents Human Global Genetic Diversity"
   bio: >
     Throughout my career, I have developed innovative computational and
@@ -30,7 +31,7 @@
 - id: 1
   name: "Dr. Davide"
   surname: "Cirillo"
-  title: "Speaker"
+  title: "Keynote"
   ribbon:
     - abbr: "Keynote"
       title: "Invited Speaker"
@@ -46,6 +47,7 @@
     Intelligence: Biomedicine and Healthcare Applications (Elsevier Academic
     Press 2022).
   thumbnailUrl: davide_cirillo.png
+  talkType: "keynote"
   talkTitle: "Synthetic Data in Biomedical Research: From Knowledge Discovery to Knowledge Generation"
   team: true
   social:
@@ -60,7 +62,7 @@
 - id: 2
   name: "Dr. Elisabeth"
   surname: "Bik"
-  title: "Speaker"
+  title: "Keynote"
   ribbon:
     - abbr: "Keynote"
       title: "Remote Speaker"
@@ -73,6 +75,7 @@
     scientific papers, and her work resulted in over 1,200 retractions and
     another 1,000 corrections. For her work in science communication and
     exposing research misconduct, she received the 2021 John Maddox Prize.
+  talkType: "keynote"
   talkTitle: Errors and Misconduct in Biomedical Research
   thumbnailUrl: elisabeth_bik.png
   team: true
@@ -83,3 +86,18 @@
       link: "https://www.linkedin.com/in/elisabeth-bik-4376782/"
     - name: "twitter"
       link: "https://twitter.com/MicrobiomDigest"
+
+- id: 3
+  name: Micheál
+  surname: Ó Dálaigh
+  title: Speaker
+  ribbon:
+    - abbr: Talk
+      title: "Short Talk"
+  company: "University of Galway"
+  bio: "Test bio."
+  talkType: "short"
+  talkTitle: "Test talk tile."
+  thumbnailUrl: elisabeth_bik.png
+
+
