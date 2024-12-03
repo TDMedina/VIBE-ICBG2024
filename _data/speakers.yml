@@ -1,11 +1,12 @@
 - id: 0
   name: "Prof. Karen"
   surname: "Miga"
-  title: "Speaker"
+  title: "Keynote"
   ribbon:
     - abbr: "Keynote"
       title: "Invited Speaker"
   company: "University of California, Santa Cruz"
+  talkType: "keynote"
   talkTitle: "The Human Pangenome Project: Creating a Reference that Better Represents Human Global Genetic Diversity"
   bio: >
     Throughout my career, I have developed innovative computational and
@@ -28,9 +29,9 @@
       link: "https://x.com/khmiga"
 
 - id: 1
-  name: "Prof. Davide"
+  name: "Dr. Davide"
   surname: "Cirillo"
-  title: "Speaker"
+  title: "Keynote"
   ribbon:
     - abbr: "Keynote"
       title: "Invited Speaker"
@@ -46,6 +47,8 @@
     Intelligence: Biomedicine and Healthcare Applications (Elsevier Academic
     Press 2022).
   thumbnailUrl: davide_cirillo.png
+  talkType: "keynote"
+  talkTitle: "Synthetic Data in Biomedical Research: From Knowledge Discovery to Knowledge Generation"
   team: true
   social:
     - name: "site"
@@ -57,27 +60,24 @@
 
 
 - id: 2
-  name: "Prof. Elisabeth"
+  name: "Dr. Elisabeth"
   surname: "Bik"
-  title: "Speaker"
+  title: "Keynote"
   ribbon:
     - abbr: "Keynote"
       title: "Remote Speaker"
   company: "Harbers Bik LLC"
   bio: >
-    After receiving her PhD at Utrecht University in the Netherlands where she
-    worked on epidemic Vibrio cholerae strains, Elisabeth Bik worked at the
-    Dutch National Institute for Health and the St. Antonius Hospital in
-    Nieuwegein. She worked 15 years in the lab of David Relman in the School
-    of Medicine at Stanford, on the microbiomes of humans and marine mammals.
-    In May 2014, she founded Microbiome Digest, an almost daily compilation
-    of scientific papers in the rapidly growing microbiome field. From
-    2016-2018, she worked at uBiome as a Science Editor, and later as the
-    Scientific and Editorial Director. In 2018, she joined Astarte Medical as
-    their Director of Science. In March 2019, she became a Science Integrity
-    consultant. Her work has resulted in 1069 Retractions, 149 Expressions of
-    Concern, and 1008 Corrections as of November 2023.
-  thumbnailUrl: Elisabeth_Bik.jpg
+    Elisabeth Bik, PhD is a Dutch-American microbiologist who has worked for
+    15 years at Stanford University and 2 years in industry. Since 2019, she
+    is a science integrity volunteer and consultant who scans the biomedical
+    literature for images or other data of concern. She has found over 8,000
+    scientific papers, and her work resulted in over 1,200 retractions and
+    another 1,000 corrections. For her work in science communication and
+    exposing research misconduct, she received the 2021 John Maddox Prize.
+  talkType: "keynote"
+  talkTitle: Errors and Misconduct in Biomedical Research
+  thumbnailUrl: elisabeth_bik.png
   team: true
   social:
     - name: "site"
@@ -86,3 +86,213 @@
       link: "https://www.linkedin.com/in/elisabeth-bik-4376782/"
     - name: "twitter"
       link: "https://twitter.com/MicrobiomDigest"
+
+- id: 9
+  name: "Ahmad"
+  surname: "Alkhan"
+  company: "University of Limerick"
+  talkType: "lightning"
+  talkTitle: "Deep Learning approach for detecting and segmenting Perineural Invasion in Colon, Prostate, and Pancreatic cancers"
+
+- id: 23
+  name: "Stefanus"
+  surname: "Bernard"
+  company: "SFI Centre for Research Training in Genomics Data Science"
+  talkType: "lightning"
+  talkTitle: "Bioinformatics Refinement of CRISPR-Cas9 Knockout Screens Reveals Additional Genes Modulating Cellular Responses to CDC7 Inhibitors"
+
+- id: 44
+  name: "Elle"
+  surname: "Loughran"
+  company: "Trinity College Dublin"
+  talkType: "lightning"
+  talkTitle: "Factors in the Development of Extreme Ploidy States in Cancer"
+
+- id: 34
+  name: "Linda"
+  surname: "Smith"
+  company: "University College Cork"
+  talkType: "lightning"
+  talkTitle: "A novel approach to Caudoviricetes taxonomy utilising whole proteome structure-structure comparison"
+
+- id: 76
+  name: "Anna"
+  surname: "Grossbach"
+  company: "School of Mathematical and Statistical Sciences, University of Galway"
+  talkType: "lightning"
+  talkTitle: "Mapping Genetic Determinants of DNA Methylation Across Early Development"
+
+- id: 7
+  name: "Catherine"
+  surname: "Higgins"
+  company: "University College Dublin"
+  talkType: "lightning"
+  talkTitle: "Clustering imbalanced functional data - enhancing the clustering accuracy of time-course gene expression data"
+
+- id: 8
+  name: "Mariagiovanna"
+  surname: "Pais"
+  company: "Queen's University"
+  talkType: "lightning"
+  talkTitle: "Exploring endocrine disrupting pathways using knowledge graph and network biology."
+
+- id: 26
+  name: "Metin"
+  surname: "Yazar"
+  company: "School of Computer Science, University College Dublin"
+  talkType: "lightning"
+  talkTitle: "Unravelling Resistance Mechanisms to Synthetic Lethal Therapies in Cancer Through Protein-Protein Interaction Networks"
+
+- id: 31
+  name: "Pouya"
+  surname: "Motienoparvar"
+  company: "University of Galway"
+  talkType: "lightning"
+  talkTitle: "A genetic network integrates regulation of the vegetative-reproductive phase transition in Arabidopsis thaliana"
+
+- id: 50
+  name: "Emma"
+  surname: "Corley"
+  company: "Clinical Neuroimaging Laboratory, Centre for Neuroimaging, Cognition, and Genomics (NICOG), University of Galway, Ireland"
+  talkType: "lightning"
+  talkTitle: "Associating Mood Symptom Severity with Subcortical Brain Volumes in Bipolar Disorder and Major Depressive Disorder using an Item Response Theory Model"
+
+- id: 11
+  name: "Javier"
+  surname: "Villegas Salmerón"
+  company: "Royal College of Surgeons in Ireland"
+  talkType: "short"
+  talkTitle: "Characterization of the mouse intra-amygdala kainic acid model at single-cell resolution reveals cell-type specific contributions to epilepsy phenotype"
+
+- id: 16
+  name: "Sophia"
+  surname: "Heneghan"
+  company: "School of Pharmacy and Biomolecular Sciences, Royal College of Surgeons in Ireland"
+  talkType: "short"
+  talkTitle: "The impact of copy number variants in diagnosis and severity of autosomal dominant polycystic kidney disease"
+
+- id: 19
+  name: "Nicole"
+  surname: "Glendinning"
+  company: "School of Biological Sciences, and Institute for Global Food Security, Queen’s University Belfast"
+  talkType: "short"
+  talkTitle: "DNA Methylation in Vulnerability to Opioid Use Disorder"
+
+- id: 37
+  name: "Karen"
+  surname: "Guerrero Vazquez"
+  company: "University of Galway"
+  talkType: "short"
+  talkTitle: "Predicting Age and Identifying Aging-Related Genes from Muscle Gene Expression Data"
+
+- id: 6
+  name: "Roofiya"
+  surname: "Koya"
+  company: "University College Dublin"
+  talkType: "short"
+  talkTitle: "Mechanistic insights into long noncoding RNAs through high resolution analysis of tumour mutations."
+
+- id: 30
+  name: "Aideen"
+  surname: "McCabe"
+  company: "School of Biochemistry and Cell Biology, University College Cork"
+  talkType: "short"
+  talkTitle: "Understanding Ovarian Cancer: Lessons Learned from Cells, Apps and Patients"
+
+- id: 39
+  name: "Hannah"
+  surname: "Nyarko"
+  company: "Royal College of Surgeons in Ireland"
+  talkType: "short"
+  talkTitle: "Assessing the spatial patterns of immune and stromal cells for prognosis in early-stage ER+/HER2- Breast Cancer"
+
+- id: 77
+  name: "Micheál"
+  surname: "Ó Dálaigh"
+  company: "School of Biological and Chemical Sciences, University of Galway"
+  talkType: "short"
+  talkTitle: "Kinnex Long-Read Resequencing of Acute Myeloid Leukaemia Single-Cell RNA Samples for Improved Detection of Malignant Genomic Alterations"
+
+- id: 48
+  name: "John-Paul"
+  surname: "Wilkins"
+  company: "Queen's University Belfast"
+  talkType: "short"
+  talkTitle: "Secrets in the Sewers - Revealing the hidden diversity of SARS-CoV-2 in Northern Irish wastewater"
+
+- id: 61
+  name: "Kate"
+  surname: "Ryan"
+  company: "Antimicrobial Resistance and Microbial Ecology (ARME) Group, School of Medicine, University of Galway"
+  talkType: "short"
+  talkTitle: "Genomic identification and characterisation of novel bacterial species from Space Craft Assembly Clean Rooms"
+
+- id: 67
+  name: "Emmet"
+  surname: "Campbell"
+  company: "Queen's University Belfast"
+  talkType: "short"
+  talkTitle: "In silico phage-bacteria infection networks (PBINs) of Streptococcus suis reveal co-evolution patterns between host and prophage"
+
+- id: 71
+  name: "Anna"
+  surname: "Tumeo"
+  company: "University of Galway"
+  talkType: "short"
+  talkTitle: "Validation of a field-deployable automated DNA extraction system as a tool for assessment of microbial diversity in marine ecosystems"
+
+- id: 12
+  name: "Olivier"
+  surname: "Dennler"
+  company: "School of Medicine, University College Dublin"
+  talkType: "short"
+  talkTitle: "Evaluating Sequence and Structural Similarity Metrics for Predicting Shared Paralog Functions"
+
+- id: 22
+  name: "Sophie"
+  surname: "Matthews"
+  company: "University of Galway"
+  talkType: "short"
+  talkTitle: "Variable gene copy number in cancer-related pathways is associated with cancer prevalence across mammals"
+
+- id: 32
+  name: "Maria Eleonora"
+  surname: "Rossi"
+  company: "School of Biological and Chemical Sciences, University of Galway"
+  talkType: "short"
+  talkTitle: "Independent origins of spicules reconcile the evolutionary history of sponges (Porifera)"
+
+- id: 74
+  name: "Nicholas"
+  surname: "Dimonaco"
+  company: "Queen's University Belfast"
+  talkType: "short"
+  talkTitle: "PyamilySeq: Transparent and interpretable gene (re)clustering and pangenomic inference across species and genera highlights the fragility of conventional methods"
+
+- id: 10
+  name: "James"
+  surname: "McInerney"
+  company: "University of Liverpool"
+  talkType: "short"
+  talkTitle: "panGPT: An AI transformer for generating large pangenome models."
+
+- id: 35
+  name: "Michael"
+  surname: "Lynch"
+  company: "School of Medicine, Limerick Digital Cancer Research Centre, Health Research Institute (HRI), University of Limerick"
+  talkType: "short"
+  talkTitle: "Supervised multimodal demultiplexing outperforms conventional demultiplexing of scRNAseq"
+
+- id: 62
+  name: "Seyed Aghil"
+  surname: "Hooshmand"
+  company: "School of Mathematical and Statistical Sciences, University of Galway"
+  talkType: "short"
+  talkTitle: "Advancing Cancer Research through Integration of Liquid Biopsy Data in cBioPortal: Insights from the All-Ireland Cancer Liquid Biopsies Consortium (CLuB)"
+
+- id: 73
+  name: "Yezhao"
+  surname: "Zhong"
+  company: "University of Galway"
+  talkType: "short"
+  talkTitle: "Adverse Drug Reaction Profile Prediction: Denoising, Signal Enhancement and Missing Row Imputation"
