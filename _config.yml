@@ -392,6 +392,13 @@ sponsorsRows:
           <a href='https://www.sfi.ie/'>SFI website</a> or follow their
           Twitter <a
           href='https://twitter.com/scienceirel'>@scienceirel</a></p>
+      - title: University of Galway<br>Office of the Deputy President and Registrar
+        image: OnaG_symbol.png
+        details: >
+          <p>VIBE/ICBG 2024 is made possible with support from the University
+          of Galway Office of the Deputy President and Registrar.<br>Is
+          féidir VIBE/ICBG 2024 a dhéanamh le tacaíocht ó Oifig an Uachtaráin
+          Ionaid agus Meabhránaí.</p>
   - title: "Industry Sponsors"
     subCards:
       - title: "CloudCIX"
@@ -418,6 +425,20 @@ sponsorsRows:
           visit our <a href='https://www.novogene.com/us-en/'>website</a> or
           follow us on <a
           href='https://twitter.com/Novogene_Europe'>Twitter</a>.</p>
+      - title: "GenSeq"
+        image: genseq.png
+        details: >
+          <p>Genseq provides ISO 15189 accredited clinical genetic testing
+          services to healthcare professionals and a comprehensive range of
+          genomic solutions to the biopharma and clinical research sectors
+          worldwide. Operating from our state-of-the-art laboratory in
+          Dublin, Ireland, Genseq offers a range of clinical genetic testing
+          services, enabling Healthcare Practitioners to gain important
+          genetic insights for their patients. At Genseq, we pride ourselves
+          on providing a service that is reliable and convenient with
+          excellent customer support, so that you can focus on providing your
+          patients with the best care possible.<br><br>For more information
+          visit our <a href='https://genseqgroup.com/'>website</a>.</p>
       # - {title: "Systems Biology Ireland", image: "ucd.png", details: "<p>Systems Biology Ireland (SBI) investigates new therapeutic approaches to disease, with a focus on cancer at a systems level. We use a combination of traditional wet-lab and computational modeling approaches to understand cellular signaling networks. SBI specialises in cellular signal transduction investigation with a particular focus on development of new diagnostics and treatment strategies for diseases. The centre has expertise in: Drug target and biomarker discovery, Patient stratification and sub-population characterisation, Combination therapy prediction and screening, Protein-Protein interaction profiling, Computational network inference and modelling, Dynamic mechanistic disease models. We collaborate nationally and internationally to produce high impact research that delivers tangible results for patients and clinicians. <br><br>For more information visit <a href='https://www.ucd.ie/sbi/'>SBI website</a> or follow their Twitter <a href='https://twitter.com/sysbioire'>@SysBioire</a></p>"}
       # - {title: "Parse Biosciences", image: "Parse_FullLogo_RGB_Purple.jpg", details: "<p>Parse Biosciences is a Seattle-based company with the mission of accelerating progress in human health and scientific research. At the core of our company is our pioneering approach for single cell sequencing. Single cell sequencing has already enabled groundbreaking discoveries which have led to new understandings of cancer treatment, tissue repair, stem cell therapy, kidney and liver disease, brain development, and the immune system. At Parse Biosciences, we are providing researchers with the ability to perform single cell sequencing with unprecedented scale and ease.<br><br>For more information visit website or follow Twitter </p>"}
   # - title: "Silver Sponsor"
